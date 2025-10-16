@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com(https://www.linkedin.com/in/paul-babayen-on-78b873285/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/paul-babayen-on-78b873285/) 
 - 🖥 [Portfolio](https://paulbabayen-on-portfolio.vercel.app/)  
 - 🐦 [Twitter](https://twitter.com/polbabayenonn) 
 
